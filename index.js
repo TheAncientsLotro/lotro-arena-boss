@@ -39,7 +39,7 @@ document.getElementById("nextBoss2").innerHTML = bosses[nextIndex][1];
 
 
 /*
-Copyright (C) 2024 nullforce
+Copyright (C) 2024-2025 nullforce
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
