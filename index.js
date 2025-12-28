@@ -37,6 +37,7 @@ document.getElementById("nextDate").innerHTML = tomorrow.toDateString();
 document.getElementById("nextBoss1").innerHTML = bosses[nextIndex][0];
 document.getElementById("nextBoss2").innerHTML = bosses[nextIndex][1];
 
+window.location.replace("https://honorandglory.github.io/lotro-arena-boss/");
 
 /*
 Copyright (C) 2024-2025 nullforce
